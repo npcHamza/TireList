@@ -1,0 +1,15 @@
+{
+  "background_color": "purple",
+  "description": "Çavuşoğlu Oto Lastik Lastik Stok Sistemi",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "https://www.pngarts.com/files/4/Car-Tire-PNG-Photo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "Lastik Stok Sistemi",
+  "short_name": "LSS",
+  "start_url": "LastikStok.php"
+}
